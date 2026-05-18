@@ -1,0 +1,15 @@
+D:\Coding\Python Full Stack\Freshopia-Java\backend\src\main\java\com\freshopia\controller\FreshopiaController.java
+D:\Coding\Python Full Stack\Freshopia-Java\backend\src\main\java\com\freshopia\model\Order.java
+D:\Coding\Python Full Stack\Freshopia-Java\backend\src\main\java\com\freshopia\repository\ProductRepository.java
+D:\Coding\Python Full Stack\Freshopia-Java\backend\src\main\java\com\freshopia\FreshopiaApplication.java
+D:\Coding\Python Full Stack\Freshopia-Java\backend\src\main\java\com\freshopia\model\Category.java
+D:\Coding\Python Full Stack\Freshopia-Java\backend\src\main\java\com\freshopia\repository\UserRepository.java
+D:\Coding\Python Full Stack\Freshopia-Java\backend\src\main\java\com\freshopia\model\AuthRequest.java
+D:\Coding\Python Full Stack\Freshopia-Java\backend\src\main\java\com\freshopia\model\AuthResponse.java
+D:\Coding\Python Full Stack\Freshopia-Java\backend\src\main\java\com\freshopia\model\BillingBreakdown.java
+D:\Coding\Python Full Stack\Freshopia-Java\backend\src\main\java\com\freshopia\model\UserEntity.java
+D:\Coding\Python Full Stack\Freshopia-Java\backend\src\main\java\com\freshopia\model\OrderCreate.java
+D:\Coding\Python Full Stack\Freshopia-Java\backend\src\main\java\com\freshopia\service\DataStore.java
+D:\Coding\Python Full Stack\Freshopia-Java\backend\src\main\java\com\freshopia\repository\OrderRepository.java
+D:\Coding\Python Full Stack\Freshopia-Java\backend\src\main\java\com\freshopia\model\CartItem.java
+D:\Coding\Python Full Stack\Freshopia-Java\backend\src\main\java\com\freshopia\model\Product.java
